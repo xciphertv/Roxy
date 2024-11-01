@@ -50,7 +50,6 @@ You can deploy your own instance of this application on Cloudflare Workers by cl
 
 [![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/Toasty360/Roxy)
 
-> Replace `YOUR_USERNAME` and `YOUR_REPOSITORY` in the URL above with your GitHub username and the repository name where your `index.js` file is located.
 
 ## Contributing
 
